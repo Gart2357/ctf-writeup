@@ -1,6 +1,6 @@
 # CPCTF2021 OSINT Writeup
 
-こんにちは、[がーと](https://twitter.com/kinder_Gart_en)です。先日 [CPCTF2021](https://trap.jp/post/1263/) に参加しました。OSINT 問題が楽しかったので今回初めて CTF の Writeup をやってみたいと思います。初めてなのでお手柔らかにお願いします。
+こんにちは、[がーと](https://twitter.com/gaato__)です。先日 [CPCTF2021](https://trap.jp/post/1263/) に参加しました。OSINT 問題が楽しかったので今回初めて CTF の Writeup をやってみたいと思います。初めてなのでお手柔らかにお願いします。
 
 今回私は 1,831.31 点を獲得し、44 位でした。CTF 初心者の私は大体 OSINT で点数を稼ぎました。
 ![score](score.png)
